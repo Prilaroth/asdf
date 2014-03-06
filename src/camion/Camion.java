@@ -3,8 +3,11 @@
  * @author Ruben
  * @return Examen EDD
  *	
- */package camion;
-
+ */
+package camion;
+/*
+ * asdf
+ */
 import java.util.Arrays;
 
 public class Camion {
